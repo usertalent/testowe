@@ -1,2 +1,2 @@
 # testowe
-do tstow
+do testow
